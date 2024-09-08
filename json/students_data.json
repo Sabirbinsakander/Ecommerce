@@ -1,0 +1,48 @@
+{
+    "students": [
+        {
+            "name": "Sabir Bin Sekander",
+            "middle": null,
+            "age": 31,
+            "cgpa": 3.44,
+            "isRegestered": true,
+            "language": [
+                "Bengli",
+                "English",
+                "Hindi"
+            ],
+            "friends": [
+                {
+                    "name": "Sakir Bin sekander",
+                    "age": 25
+                },
+                {
+                    "name": "Samira Binte sekander",
+                    "age": 26
+                }
+            ]
+        },
+        {
+            "name": "Tasnia Binte Hassnat",
+            "middle": null,
+            "age": 30,
+            "cgpa": 3.44,
+            "isRegestered": false,
+            "language": [
+                "Bengli",
+                "English",
+                "spanis"
+            ],
+            "friends": [
+                {
+                    "name": "Ayman Binte Hasnat",
+                    "age": 25
+                },
+                {
+                    "name": "Saima Azom Riya",
+                    "age": 26
+                }
+            ]
+        }
+    ]
+}

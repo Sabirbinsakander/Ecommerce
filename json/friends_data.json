@@ -1,0 +1,18 @@
+{
+        "name":"Sabir Bin Sekander",
+        "middle": null,
+        "age" : 31,
+        "cgpa":3.44,
+        "isRegestered" : true,
+        "language":["Bengli","English","Hindi"],
+        "friends":[
+            {
+                "name" : "Sakir Bin sekander",
+                "age" :25
+            },
+            {
+                "name" : "Samira Binte sekander",
+                "age" :26
+            }
+        ]
+    }
